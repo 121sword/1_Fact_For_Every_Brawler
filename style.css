@@ -1,9 +1,27 @@
 /*This is the css file for the website*/
 h1{
   text-align: centre;
-  colour: black;
+  colour: #edf756;
+}
+
+h2{
+  colour: #edf756;
+  
 }
 hr{
-  color:black;
+  color: #edf756;
   border: none;
+}
+
+left{
+  float: left;
+  margin-left: 10px 0px 0px 30px;
+  width: 150px;
+  height: 38px;
+}
+right{
+  float: right;
+  margin-right: 10px 30px 0px 0px;
+  width: 150px;
+  height: 38px;
 }
