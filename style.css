@@ -1,0 +1,9 @@
+/*This is the css file for the website*/
+h1{
+  text-align: centre;
+  colour: black;
+}
+hr{
+  color:black;
+  border: none;
+}
