@@ -1,4 +1,6 @@
 /*This is the css file for the website*/
+
+/*Headings*/
 h1{
   text-align: centre;
   colour: #edf756;
@@ -8,11 +10,14 @@ h2{
   colour: #edf756;
   
 }
+
+/*Line*/
 hr{
   color: #edf756;
   border: none;
 }
 
+/*Images*/
 left{
   float: left;
   margin-left: 10px 0px 0px 30px;
@@ -26,9 +31,12 @@ right{
   height: 38px;
 }
 
+/*Background colour*/
 body{
   background-color:#9df9ef
 }
+
+/*Main paragraph text*/
 p {
-  color:#edf756
+  color:#edf756;
 }
