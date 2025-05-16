@@ -3,17 +3,10 @@
 /*Headings*/
 h1{
   text-align: centre;
-  colour:white;
 }
-
-h2{
-  colour:white;
-  
-}
-
 /*Line*/
 hr{
-  color:white;
+  color:#000000;
   border: none;
 }
 
@@ -21,7 +14,7 @@ hr{
 .row {
   display: flex;
   flex-wrap:wrap;
-  justify-content: space-around
+  justify-content: space-around;
 }
 img {
   width:200px;
@@ -29,10 +22,11 @@ img {
 
 /*Background colour*/
 body{
-  background-color:#9df9ef
+  background-color:#add8e6;
 }
 
 /*Main paragraph text*/
 p {
-  color:white;
+  background-color:#add8e6; 
+  color:#000000;
 }
