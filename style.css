@@ -19,14 +19,10 @@ hr{
 img {
   width:200px;
   height:auto;
+}
 
 /*Background colour*/
 body{
-  background-color:#add8e6;
+  background-image:url("Background.png");
 }
 
-/*Main paragraph text*/
-p {
-  background-color:#add8e6; 
-  color:#000000;
-}
