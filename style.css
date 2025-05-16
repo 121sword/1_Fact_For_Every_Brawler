@@ -10,7 +10,7 @@ hr{
   border: none;
 }
 
-/*Images*/
+/*Images with flexbox*/
 .row {
   display: flex;
   flex-wrap:wrap;
@@ -21,7 +21,7 @@ img {
   height:auto;
 }
 
-/*Background colour*/
+/*Background image*/
 body{
   background-image:url("Background.png");
 }
