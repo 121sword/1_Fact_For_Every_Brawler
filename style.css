@@ -19,6 +19,7 @@ hr{
 img {
   width:200px;
   height:auto;
+  border:2px;
 }
 
 /*Background image*/
