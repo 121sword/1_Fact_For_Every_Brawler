@@ -24,5 +24,7 @@ img {
 /*Background image*/
 body{
   background-image:url("Background.png");
+  background-size:cover;
+  backgroun-repeat:no-repeat;
 }
 
